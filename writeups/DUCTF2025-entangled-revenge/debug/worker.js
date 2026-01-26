@@ -1,0 +1,4 @@
+onmessage = (a) => {
+    postMessageEntangle(getMessageEntangle());
+}
+
